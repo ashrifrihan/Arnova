@@ -45,7 +45,7 @@ export default function Footer() {
 
           <div className="footer-col">
             <span className="footer-col-title">CONNECT</span>
-            <a href="mailto:hello@arnova.tech">hello@arnova.tech</a>
+            <a href="mailto:rihan@arnova.tech">rihan@arnova.tech</a>
             <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
               X / Twitter ↗
             </a>

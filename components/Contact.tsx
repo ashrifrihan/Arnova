@@ -60,7 +60,7 @@ export default function Contact() {
   };
 
   const handleCopyEmail = () => {
-    navigator.clipboard.writeText("hello@arnova.tech");
+    navigator.clipboard.writeText("rihan@arnova.tech");
     setCopied(true);
     setTimeout(() => setCopied(false), 2500);
   };
@@ -174,7 +174,7 @@ export default function Contact() {
                     onClick={handleCopyEmail}
                     title="Click to copy email address"
                   >
-                    <span>hello@arnova.tech</span>
+                    <span>rihan@arnova.tech</span>
                     <span className="copy-badge">{copied ? "Copied! ✓" : "Copy"}</span>
                   </button>
                 </div>
