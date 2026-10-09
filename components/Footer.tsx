@@ -46,23 +46,20 @@ export default function Footer() {
           <div className="footer-col">
             <span className="footer-col-title">CONNECT</span>
             <a href="mailto:rihan@arnova.tech">rihan@arnova.tech</a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-              X / Twitter ↗
-            </a>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/ashrifrihan" target="_blank" rel="noopener noreferrer">
               GitHub ↗
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-              LinkedIn ↗
+            <a href="https://ashrifrihan.me" target="_blank" rel="noopener noreferrer">
+              Founder Profile ↗
             </a>
           </div>
         </div>
       </div>
 
       <div className="shell footer-bottom">
-        <p className="footer-copy">© {new Date().getFullYear()} Arnova Technologies Inc. All rights reserved.</p>
+        <p className="footer-copy">© {new Date().getFullYear()} Arnova Technologies. Founded by Ashrif Rihan. All rights reserved.</p>
         <div className="footer-bottom-links">
-          <span>San Francisco • New York • Remote Worldwide</span>
+          <span>Colombo, Sri Lanka • Remote Worldwide</span>
           <a href="#top" className="back-top-link">
             Back to top ↑
           </a>
