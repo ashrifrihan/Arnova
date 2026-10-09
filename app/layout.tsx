@@ -30,7 +30,7 @@ const jsonLd = {
   alternateName: "Arnova Technologies",
   url: "https://www.arnova.tech",
   email: "rihan@arnova.tech",
-  foundingDate: "2025",
+  foundingDate: "2025-03",
   address: {
     "@type": "PostalAddress",
     addressLocality: "Colombo",
